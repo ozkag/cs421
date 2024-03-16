@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/ozkag/cs421/main/textfile1.txt
+https://raw.githubusercontent.com/ozkag/cs421/main/textfile2.txt
+https://raw.githubusercontent.com/ozkag/cs421/main/textfile3.txt
